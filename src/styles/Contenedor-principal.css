@@ -1,0 +1,27 @@
+body{
+  background-color: #2e4053;
+}
+
+.titulo{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  color: white;
+}
+
+.contenedor-principal{
+  width: 420px;
+  height: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color:  #2e4053;
+}
+
+.fila{
+  display: flex;
+  margin-top: 20px;
+  color: white;
+}

@@ -1,0 +1,21 @@
+
+.limpiar{
+    width: 90%;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(111, 12, 12);
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: rgb(111, 12, 12);
+    cursor: pointer;
+    user-select: none;
+}
+
+.limpiar:hover {
+    background-color: red;
+    border: 2px solid red;
+}
