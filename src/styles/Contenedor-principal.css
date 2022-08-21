@@ -1,5 +1,5 @@
 body{
-  background-color: #2e4053;
+  background-color: #14314f;
 }
 
 .titulo{
@@ -8,16 +8,18 @@ body{
   font-size: 50px;
   font-weight: 100;
   color: white;
+  margin-top: 20px;
 }
 
 .contenedor-principal{
   width: 420px;
   height: 480px;
+  margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid black;
+  border: 1px solid #1b1b23;
   border-radius: 20px;
-  background-color:  #2e4053;
+  background-color:  #24303c;
 }
 
 .fila{

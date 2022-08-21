@@ -20,6 +20,9 @@
   border: 2px solid blue;
 }
 
+.eliminar{
+  background-color: red;
+}
 .operador{
   background-color: goldenrod;
   border: 2px solid goldenrod;
